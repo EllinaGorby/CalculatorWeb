@@ -1,0 +1,47 @@
+/* 
+    Created on : 21.04.2023, 10:13:30
+    Author     : javafish
+*/
+h1 {
+    color: darkblue;
+}
+.grid-calcview-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    width: 400px;
+    height: 50px;
+    margin-bottom: 25px;
+}
+.grid-calcview-container input {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.grid-buttons-container {
+              display: grid;
+              grid-template-columns: repeat(4, 1fr);
+              gap: 10px;
+              width: 400px;
+              height: 300px;
+            }
+            .grid-buttons-container input {
+              width: 100%;
+              height: 50px;
+              font-size: 24px;
+            }
+
+
+            .grid-clear-container {
+              display: grid;
+              grid-template-columns: repeat(1, 1fr);
+              gap: 10px;
+              width: 400px;
+              height: 50px;
+            }
+            .grid-clear-container input {
+              width: 100%;
+              height: 50px;
+              font-size: 24px;
+            }
