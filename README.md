@@ -8,14 +8,14 @@ A simple calculator (study project) based on Jakarta EE 8. To run, you need a Se
 
 ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Calculator1_2.jpg)
 
-nach der Knopf ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Taste_gleich.jpg)
+nach der Knopf ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Taste_gleich.jpg) sehen wir:
 
 
 ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Calculator1_2.jpg)
 
 ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Calculator3.jpg)
 
-nach der Knopf ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Taste_division.jpg)
+nach der Knopf ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Taste_division.jpg) sehen wir:
 
 ![Calculator](https://github.com/EllinaGorby/CalculatorWeb/blob/main/screenshots/Calculator4.jpg)
 
